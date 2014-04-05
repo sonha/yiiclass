@@ -1,0 +1,8 @@
+2014/04/05 08:55:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "napoleon".' in E:\OpenServer\domains\localhost\yiiclass\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\OpenServer\domains\localhost\yiiclass\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#1 E:\OpenServer\domains\localhost\yiiclass\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\OpenServer\domains\localhost\yiiclass\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yiiclass/www/
+---

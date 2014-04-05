@@ -2,6 +2,7 @@
 /**
  * Controller is the customized base controller class.
  * All controller classes for this application should extend from this base class.
+ * default action se duoc dinh nghia trong CController public $defaultAction='index';
  */
 class Controller extends CController
 {
